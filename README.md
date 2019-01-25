@@ -1,2 +1,2 @@
 # guidelines
-Guidelines for Rails, Docker and Javascript.
+Guidelines for Rails, Docker, Javascript and CSS.
