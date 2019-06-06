@@ -1,4 +1,4 @@
-This way you can make more "reacty" when using the gem react-rails. 
+This way you can make rais app more "reacty" when using the react-rails gem. 
 - you have to create routes in routes.rb
 - you have to create a tag element with id react-wrapper wherever you want to use it
 - you dont need to use helper react_component on the views
